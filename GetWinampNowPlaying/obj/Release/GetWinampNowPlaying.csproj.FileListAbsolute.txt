@@ -1,0 +1,5 @@
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\bin\Release\GetWinampNowPlaying.exe.config
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\bin\Release\GetWinampNowPlaying.exe
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\bin\Release\GetWinampNowPlaying.pdb
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\obj\Release\GetWinampNowPlaying.exe
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\obj\Release\GetWinampNowPlaying.pdb

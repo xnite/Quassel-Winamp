@@ -1,0 +1,6 @@
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\bin\Debug\GetWinampNowPlaying.exe.config
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\bin\Debug\GetWinampNowPlaying.exe
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\bin\Debug\GetWinampNowPlaying.pdb
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\obj\Debug\GetWinampNowPlaying.csprojResolveAssemblyReference.cache
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\obj\Debug\GetWinampNowPlaying.exe
+e:\xnite\documents\visual studio 2015\Projects\GetWinampNowPlaying\GetWinampNowPlaying\obj\Debug\GetWinampNowPlaying.pdb
